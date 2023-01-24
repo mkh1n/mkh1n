@@ -1,20 +1,16 @@
-### ʜɪ, ᴛʜᴇʀᴇ! ɪ ᴀᴍ ᴍᴏxᴀ-ʀᴜᴍɪɴ
+### Hi there 👋, my name is Roma
+#### I'm a beginner programmer
+![I'm a beginner programmer](https://i.pinimg.com/originals/6b/fc/25/6bfc256a694e15fcff0f9c04b7562924.jpg)
 
-<!--
-**moxa-rumin/moxa-rumin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just at the beginning of my journey into the world of bits and bytes, but you can already see some of my projects
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS / Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moxa-rumin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![codewars](https://www.codewars.com/users/Moxa_rumin/badges/large)](https://www.codewars.com/users/Moxa_rumin) 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/moxa-rumin)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moxa-rumin)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=moxa-rumin&show_icons=true)  
 
