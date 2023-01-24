@@ -1,10 +1,5 @@
 ### Hi there 👋, my name is Roma
 #### I'm a beginner programmer
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
 I'm just at the beginning of my journey into the world of bits and bytes, but you can already see some of my projects
 
 Skills: JS / HTML / CSS / Jest
