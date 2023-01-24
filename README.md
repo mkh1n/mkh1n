@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moxa-rumin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![codewars](https://www.codewars.com/users/Moxa_rumin/badges/small)](https://www.codewars.com/users/Moxa_rumin) 
+[![codewars](https://www.codewars.com/users/Moxa_rumin/badges/large)](https://www.codewars.com/users/Moxa_rumin) 
 
