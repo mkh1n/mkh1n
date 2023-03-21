@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Roma
+### Hi there 👋, my name is Romam Mukhin
 #### I'm a beginner frontend developer
 I'm just at the beginning of my journey into the world of bits and bytes, but you can already see some of my projects
 
